@@ -93,5 +93,13 @@
 	"publishConfig": {
 		"access": "public"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/minagishl/compeek.git"
+	},
+	"homepage": "https://github.com/minagishl/compeek#readme",
+	"bugs": {
+		"url": "https://github.com/minagishl/compeek/issues"
+	},
 	"packageManager": "pnpm@10.10.0"
 }
