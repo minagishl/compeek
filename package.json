@@ -1,7 +1,7 @@
 {
 	"name": "compeek",
 	"version": "1.0.0",
-	"description": "A lightweight command-line tool for reviewing Git commit differences with GitHub-like interface",
+	"description": "A lightweight CLI tool for reviewing Git diffs with a GitHub-like interface",
 	"type": "module",
 	"engines": {
 		"node": ">=20.0.0"
